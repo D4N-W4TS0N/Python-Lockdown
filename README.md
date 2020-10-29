@@ -6,3 +6,9 @@ This is a simple program that allows you to create a variable with your name and
 
 2. input
 This program allows the user to input 2 numbers when running the code. It will then add those 2 numbers together before displaying the total. The code can be easily modifieed to divide, subtract, multiply etc.
+
+3. if statements
+This program allows the user to input a temperature and the the program will give advice depending on the temperature.
+
+4. exercise
+This program uses all of the above methods to crate a simple program that allows the user to input their weight and say if it's in Lbs or Kgs. It will then convert the weight to the other unit
