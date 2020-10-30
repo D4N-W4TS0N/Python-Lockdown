@@ -11,4 +11,22 @@ This program allows the user to input 2 numbers when running the code. It will t
 This program allows the user to input a temperature and the the program will give advice depending on the temperature.
 
 4. exercise
-This program uses all of the above methods to crate a simple program that allows the user to input their weight and say if it's in Lbs or Kgs. It will then convert the weight to the other unit
+This program uses all of the above methods to crate a simple program that allows the user to input their weight and say if it's in Lbs or Kgs. It will then convert the weight to the other unit.
+
+5. while loops
+This program prints out a string repeatedly using one for loop.
+
+6. lists
+This prints a list of names using only one print line. The list is changed and only some items are printed.
+
+7. lists methods
+This shows what you can do with lists, insert or append or remove numbers, check for numbers, check how many numbers etc.
+
+8. for loops
+This prints of a list of numbers and is compared against a while loop.
+
+9. the range function
+This is an even more efficient way to print a list of numbers.
+
+10. tuples
+This explains that tuples are basically lists that cannot be changed later on.
